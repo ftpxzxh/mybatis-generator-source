@@ -50,3 +50,6 @@
 /.project
 /eclipse/org.mybatis.generator.core/.classpath
 /eclipse/org.mybatis.generator.core/.project
+/eclipse/org.mybatis.generator.eclipse.doc/.project
+/eclipse/org.mybatis.generator.eclipse.parent/.project
+/eclipse/org.mybatis.generator.eclipse.site/.project
