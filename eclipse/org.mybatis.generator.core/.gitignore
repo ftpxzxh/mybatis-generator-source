@@ -3,3 +3,4 @@
 # ignore source because it is copied from the true project
 /src/main/java/
 /src/main/resources/
+/.classpath
